@@ -28,14 +28,14 @@ sudo ./run
 > #### Raspberry Pi 4
 > |부품|사진|
 > |------|---|
-> |Raspberry Pi 4|<p align="center"><img src="docs/rpi4.png" width="200" height="200"/></p>|
-> |Raspberry Pi Camera|<p align="center"><img src="docs/raspberry PI Camera Rev 1.3.png" width="400" height="200"/></p>|
-> |LCD Display|![Alt text](docs/LCD_Display.png)|
-> |Servo Motor|![Alt text](docs/Servo_Motor.png)|
-> |Step Motor|![Alt text](docs/Step_Motor.png)|
-> |Piezo Buzzer|![Alt text](docs/piezo_buzzer.png)|
-> |RGB LED|![Alt text](docs/RGB_LED.png)|
-> |Button|![Alt text](../main/image/motor.png)|
+> |Raspberry Pi 4|<p align="center"><img src="docs/rpi4.png" width="222" height="180"/></p>|
+> |Raspberry Pi Camera|<p align="center"><img src="docs/raspberry PI Camera Rev 1.3.png" width="250" height="150"/></p>|
+> |LCD Display|<p align="center"><img src="docs/LCD_Display.png" width="195" height="149"/></p>|
+> |Servo Motor|<p align="center"><img src="docs/Servo_Motor.png" width="184" height="180"/></p>|
+> |Step Motor|<p align="center"><img src="docs/Step_Motor.png" width="180" height="180"/></p>|
+> |Piezo Buzzer|<p align="center"><img src="docs/piezo_buzzer.png" width="180" height="180"/></p>|
+> |RGB LED|<p align="center"><img src="docs/RGB_LED.png" width="180" height="180"/></p>|
+> |Button|<p align="center"><img src="docs/Push Button.png" width="180" height="180"/></p>|
   
 > #### Arduino UNO
 > |부품|사진|
