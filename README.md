@@ -28,8 +28,8 @@ sudo ./run
 > #### Raspberry Pi 4
 > |부품|사진|
 > |------|---|
-> |Raspberry Pi 4|![raspberry pi 4](docs/rpi4.png)|
-> |Raspberry Pi Camera|![camera](docs/raspberry-PI-Camera-Rev-1.3.png)|
+> |Raspberry Pi 4|<p align="center"><img src="docs/rpi4.png" width="200" height="200"/></p>|
+> |Raspberry Pi Camera|<p align="center"><img src="docs/raspberry PI Camera Rev 1.3.png" width="400" height="200"/></p>|
 > |LCD Display|![Alt text](docs/LCD_Display.png)|
 > |Servo Motor|![Alt text](docs/Servo_Motor.png)|
 > |Step Motor|![Alt text](docs/Step_Motor.png)|
