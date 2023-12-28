@@ -24,24 +24,24 @@ sudo ./run
 ## Hardware Architecture
 ![하드웨어 아키텍처](docs/hardware_architecture.png)  
 
-### Hardware Details
-> #### Raspberry Pi 4
-> |부품|사진|
-> |------|---|
-> |Raspberry Pi 4|<p align="center"><img src="docs/rpi4.png" width="222" height="180"/></p>|
-> |Raspberry Pi Camera|<p align="center"><img src="docs/raspberry PI Camera Rev 1.3.png" width="250" height="150"/></p>|
-> |LCD Display|<p align="center"><img src="docs/LCD_Display.png" width="195" height="149"/></p>|
-> |Servo Motor|<p align="center"><img src="docs/Servo_Motor.png" width="184" height="180"/></p>|
-> |Step Motor|<p align="center"><img src="docs/Step_Motor.png" width="180" height="180"/></p>|
-> |Piezo Buzzer|<p align="center"><img src="docs/piezo_buzzer.png" width="180" height="180"/></p>|
-> |RGB LED|<p align="center"><img src="docs/RGB_LED.png" width="180" height="180"/></p>|
-> |Button|<p align="center"><img src="docs/Push Button.png" width="180" height="180"/></p>|
-  
-> #### Arduino UNO
-> |부품|사진|
-> |------|---|
-> |Arduino UNO|![Alt text](docs/arduino_uno.png)|
-> |UltraSonic Sensor|![Alt text](docs/ultrasonic_sensor-HC-SR04.png)|
-> |JoyStick|![Alt text](docs/joystick-SZH-EK056.png)|
-> |CDS Sensor|![Alt text](docs/CDS_Sensor.png)|
-> |IR Receiver|![Alt text](docs/IR_Receiver_21key.png)|
+- ### Hardware Details
+  - #### Raspberry Pi 4
+  > |부품|사진|
+  > |------|---|
+  > |Raspberry Pi 4|<p align="center"><img src="docs/rpi4.png" width="222" height="180"/></p>|
+  > |Raspberry Pi Camera|<p align="center"><img src="docs/raspberry PI Camera Rev 1.3.png" width="250" height="150"/></p>|
+  > |LCD Display|<p align="center"><img src="docs/LCD_Display.png" width="195" height="149"/></p>|
+  > |Servo Motor|<p align="center"><img src="docs/Servo_Motor.png" width="184" height="180"/></p>|
+  > |Step Motor|<p align="center"><img src="docs/Step_Motor.png" width="180" height="180"/></p>|
+  > |Piezo Buzzer|<p align="center"><img src="docs/piezo_buzzer.png" width="180" height="180"/></p>|
+  > |RGB LED|<p align="center"><img src="docs/RGB_LED.png" width="180" height="180"/></p>|
+  > |Button|<p align="center"><img src="docs/Push Button.png" width="180" height="180"/></p>|
+
+  - #### Arduino UNO
+  > |부품|사진|
+  > |------|---|
+  > |Arduino UNO|<p align="center"><img src="docs/arduino_uno.png" width="180" height="180"/></p>|
+  > |UltraSonic Sensor (HC-SR04)|<p align="center"><img src="docs/ultrasonic_sensor HC-SR04.png" width="180" height="130"/></p>|
+  > |JoyStick (SZH-EK056)|<p align="center"><img src="docs/joystick SZH-EK056.png" width="200" height="150"/></p>|
+  > |CDS Sensor|<p align="center"><img src="docs/CDS_Sensor.png" width="180" height="180"/></p>|
+  > |IR Receiver|<p align="center"><img src="docs/IR_Receiver_21key.png" width="235" height="176"/></p>|
