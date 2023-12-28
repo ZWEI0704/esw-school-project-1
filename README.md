@@ -26,10 +26,10 @@ sudo ./run
 
 - ### Hardware Details
   - #### Raspberry Pi 4
-  > |부품|사진|
+  > |부품|<p align="center">사진</p>|
   > |------|---|
   > |Raspberry Pi 4|<p align="center"><img src="docs/rpi4.png" width="222" height="180"/></p>|
-  > |Raspberry Pi Camera|<p align="center"><img src="docs/raspberry PI Camera Rev 1.3.png" width="250" height="150"/></p>|
+  > |Raspberry Pi Camera<br/>Rev 1.3|<p align="center"><img src="docs/raspberry PI Camera Rev 1.3.png" width="250" height="150"/></p>|
   > |LCD Display|<p align="center"><img src="docs/LCD_Display.png" width="195" height="149"/></p>|
   > |Servo Motor|<p align="center"><img src="docs/Servo_Motor.png" width="184" height="180"/></p>|
   > |Step Motor|<p align="center"><img src="docs/Step_Motor.png" width="180" height="180"/></p>|
@@ -38,10 +38,10 @@ sudo ./run
   > |Button|<p align="center"><img src="docs/Push Button.png" width="180" height="180"/></p>|
 
   - #### Arduino UNO
-  > |부품|사진|
+  > |부품|<p align="center">사진</p>|
   > |------|---|
   > |Arduino UNO|<p align="center"><img src="docs/arduino_uno.png" width="180" height="180"/></p>|
-  > |UltraSonic Sensor (HC-SR04)|<p align="center"><img src="docs/ultrasonic_sensor HC-SR04.png" width="180" height="130"/></p>|
-  > |JoyStick (SZH-EK056)|<p align="center"><img src="docs/joystick SZH-EK056.png" width="200" height="150"/></p>|
+  > |UltraSonic Sensor<br/>(HC-SR04)|<p align="center"><img src="docs/ultrasonic_sensor HC-SR04.png" width="180" height="130"/></p>|
+  > |JoyStick<br/>(SZH-EK056)|<p align="center"><img src="docs/joystick SZH-EK056.png" width="200" height="150"/></p>|
   > |CDS Sensor|<p align="center"><img src="docs/CDS_Sensor.png" width="180" height="180"/></p>|
-  > |IR Receiver|<p align="center"><img src="docs/IR_Receiver_21key.png" width="235" height="176"/></p>|
+  > |IR Receiver<br/>(21 keys)|<p align="center"><img src="docs/IR_Receiver_21key.png" width="235" height="176"/></p>|
