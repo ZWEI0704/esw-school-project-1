@@ -13,8 +13,10 @@
 
 ### Software
 - Raspberry Pi OS
-- [Wiring PI](https://github.com/WiringPi/WiringPi)
+  - [Wiring Pi](https://github.com/WiringPi/WiringPi)
+  - make
 - Arduino
+  - Arduino UNO
 
 ### 실행 방법
 - **Arduino**
