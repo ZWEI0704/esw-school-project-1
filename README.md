@@ -17,17 +17,17 @@
 - Arduino
 
 ### 실행 방법
-**Arduino**
-- 아두이노 프로그램 실행  
-  [UNO program](Project1/Total_module.ino) 
+- **Arduino**
+  - 아두이노 프로그램 실행  
+    [UNO program](Project1/Total_module.ino) 
 
   
-**Raspberry Pi**
-* Build:  
-`make`
+- **Raspberry Pi**
+  - Build:  
+    `make`
 
-* run:  
-`sudo ./run`
+  - run:  
+    `sudo ./run`
 
 ## System Architecture
 ![시스템 아키텍처](docs/system_architecture.png)  
