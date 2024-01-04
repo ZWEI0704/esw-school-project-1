@@ -3,6 +3,7 @@
 프로젝트 참여자: 김도한, 성재현, 이시윤, 전민제, 정성윤
 
 ## 목차
+- [Software](#software)
 - [실행 방법](#실행-방법)
 - [System Architecture](#system-architecture)
 - [Hardware Architecture](#hardware-architecture)
@@ -10,12 +11,23 @@
     - [Raspberry Pi 4](#raspberry-pi-4)
     - [Arduino UNO](#arduino-uno)
 
+### Software
+- Raspberry Pi OS
+- [Wiring PI](https://github.com/WiringPi/WiringPi)
+- Arduino
+
 ### 실행 방법
+**Arduino**
+- 아두이노 프로그램 실행  
+  [UNO program](Project1/Total_module.ino) 
+
+  
+**Raspberry Pi**
 * Build:  
-make
+`make`
 
 * run:  
-sudo ./run
+`sudo ./run`
 
 ## System Architecture
 ![시스템 아키텍처](docs/system_architecture.png)  
