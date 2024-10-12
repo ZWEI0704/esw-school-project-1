@@ -21,7 +21,7 @@
 ## 실행 방법
 #### Arduino
 - 아두이노 프로그램 실행  
-- [UNO program](Project1/Total_module.ino) (Project1/Total_module.ino)  
+  [UNO program](Project1/Total_module.ino) (Project1/Total_module.ino)  
 
   
 #### Raspberry Pi  
