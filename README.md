@@ -21,7 +21,7 @@
 ## 실행 방법
 #### Arduino
 - 아두이노 프로그램 실행  
-- [UNO program](Project1/Total_module.ino) 
+- [UNO program](Project1/Total_module.ino) (Project1/Total_module.ino)  
 
   
 #### Raspberry Pi  
@@ -57,6 +57,6 @@
   #### Arduino UNO
   |**부품**|**사진**||**부품**|**사진**|
   |:---:|:---:|---|:---:|:---:|
-  |Arduino UNO|<img src="docs/images/arduino_uno.png" width="180" height="180"/>||　　　　　　　　　||
-  |UltraSonic Sensor<br/>(HC-SR04)|<img src="docs/images/ultrasonic_sensor HC-SR04.png" width="180" height="130"/>||CDS Sensor|<img src="docs/images/CDS_Sensor.png" width="180" height="180"/>|
-  |JoyStick<br/>(SZH-EK056)|<img src="docs/images/joystick SZH-EK056.png" width="200" height="150"/>||IR Receiver<br/>(21 keys)|<img src="docs/images/IR_Receiver_21key.png" width="250" height="187"/>|
+  |Arduino UNO|<img src="docs/images/arduino_uno.png" width="180" height="180"/>||UltraSonic Sensor<br/>(HC-SR04)|<img src="docs/images/ultrasonic_sensor HC-SR04.png" width="180" height="130"/>|
+  |CDS Sensor|<img src="docs/images/CDS_Sensor.png" width="180" height="180"/>||IR Receiver<br/>(21 keys)|<img src="docs/images/IR_Receiver_21key.png" width="250" height="187"/>|
+  |JoyStick<br/>(SZH-EK056)|<img src="docs/images/joystick SZH-EK056.png" width="200" height="150"/>||||
