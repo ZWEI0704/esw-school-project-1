@@ -27,36 +27,43 @@
   
 - **Raspberry Pi**
   - Build:  
-    `make`
+	```
+	make
+	```
 
   - run:  
-    `sudo ./run`
+    ```
+	sudo ./run`
+	```
 
 ## System Architecture
-![시스템 아키텍처](docs/system_architecture.png)  
+- ### 모사한 차량 전장 System Architecture
+  ![시스템 아키텍처](docs/images/Sensor_ECU_Actuator.png)  
+- ### 개발을 진행한 System Architecture  
+  ![시스템 아키텍처](docs/images/system_architecture.png)  
 
   
 ## Hardware Architecture
-![하드웨어 아키텍처](docs/hardware_architecture.png)  
+![하드웨어 아키텍처](docs/images/hardware_architecture.png)  
 
 - ### Hardware Details
   - #### Raspberry Pi 4
-  > |부품|<p align="center">사진</p>|
+  > |<p align="center">부품</p>|<p align="center">사진</p>|
   > |------|---|
-  > |Raspberry Pi 4|<p align="center"><img src="docs/rpi4.png" width="222" height="180"/></p>|
-  > |Raspberry Pi Camera<br/>Rev 1.3|<p align="center"><img src="docs/raspberry PI Camera Rev 1.3.png" width="250" height="150"/></p>|
-  > |LCD Display|<p align="center"><img src="docs/LCD_Display.png" width="195" height="149"/></p>|
-  > |Servo Motor|<p align="center"><img src="docs/Servo_Motor.png" width="184" height="180"/></p>|
-  > |Step Motor|<p align="center"><img src="docs/Step_Motor.png" width="180" height="180"/></p>|
-  > |Piezo Buzzer|<p align="center"><img src="docs/piezo_buzzer.png" width="180" height="180"/></p>|
-  > |RGB LED|<p align="center"><img src="docs/RGB_LED.png" width="180" height="180"/></p>|
-  > |Button|<p align="center"><img src="docs/Push Button.png" width="180" height="180"/></p>|
+  > |Raspberry Pi 4|<p align="center"><img src="docs/images/rpi4.png" width="222" height="180"/></p>|
+  > |Raspberry Pi Camera<br/>Rev 1.3|<p align="center"><img src="docs/images/raspberry PI Camera Rev 1.3.png" width="250" height="150"/></p>|
+  > |LCD Display|<p align="center"><img src="docs/images/LCD_Display.png" width="195" height="149"/></p>|
+  > |Servo Motor|<p align="center"><img src="docs/images/Servo_Motor.png" width="184" height="180"/></p>|
+  > |Step Motor|<p align="center"><img src="docs/images/Step_Motor.png" width="180" height="180"/></p>|
+  > |Piezo Buzzer|<p align="center"><img src="docs/images/piezo_buzzer.png" width="180" height="180"/></p>|
+  > |RGB LED|<p align="center"><img src="docs/images/RGB_LED.png" width="180" height="180"/></p>|
+  > |Button|<p align="center"><img src="docs/images/Push_Button.png" width="180" height="180"/></p>|
 
   - #### Arduino UNO
   > |부품|<p align="center">사진</p>|
   > |------|---|
-  > |Arduino UNO|<p align="center"><img src="docs/arduino_uno.png" width="180" height="180"/></p>|
-  > |UltraSonic Sensor<br/>(HC-SR04)|<p align="center"><img src="docs/ultrasonic_sensor HC-SR04.png" width="180" height="130"/></p>|
-  > |JoyStick<br/>(SZH-EK056)|<p align="center"><img src="docs/joystick SZH-EK056.png" width="200" height="150"/></p>|
-  > |CDS Sensor|<p align="center"><img src="docs/CDS_Sensor.png" width="180" height="180"/></p>|
-  > |IR Receiver<br/>(21 keys)|<p align="center"><img src="docs/IR_Receiver_21key.png" width="235" height="176"/></p>|
+  > |Arduino UNO|<p align="center"><img src="docs/images/arduino_uno.png" width="180" height="180"/></p>|
+  > |UltraSonic Sensor<br/>(HC-SR04)|<p align="center"><img src="docs/images/ultrasonic_sensor HC-SR04.png" width="180" height="130"/></p>|
+  > |JoyStick<br/>(SZH-EK056)|<p align="center"><img src="docs/images/joystick SZH-EK056.png" width="200" height="150"/></p>|
+  > |CDS Sensor|<p align="center"><img src="docs/images/CDS_Sensor.png" width="180" height="180"/></p>|
+  > |IR Receiver<br/>(21 keys)|<p align="center"><img src="docs/images/IR_Receiver_21key.png" width="235" height="176"/></p>|
